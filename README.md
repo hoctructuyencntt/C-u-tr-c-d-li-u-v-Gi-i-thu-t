@@ -1,1 +1,2 @@
-# C-u-tr-c-d-li-u-v-Gi-i-thu-t
+# Tài nguyên cho khóa học Cấu trúc dữ liệu và Giải thuật
+## Website: https://hoctructuyencntt.com/
